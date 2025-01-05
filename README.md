@@ -5,6 +5,8 @@ I am a **Data Analyst and Analytics Engineer** with a **Master’s in Informatio
 
 🎯 **Currently Actively Seeking Opportunities** in **Data Analytics, Analytics Engineering, and Data Science** roles. Open to collaborating on exciting projects and opportunities in **data-driven decision-making and AI-driven analytics**.  
 
+📊 **3+ years of experience in data analytics and business intelligence**, working with SQL, Python, Tableau, Power BI, and cloud platforms to drive impactful insights and strategic decision-making.  
+
 ---
 
 ## ⚡ Interests  
