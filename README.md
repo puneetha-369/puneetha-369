@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Puneetha Balekumeri 
-# 🚀 Data Analyst | Analytics Engineer | Data Scientist  
+## 🚀 Data Analyst | Analytics Engineer | Data Scientist  
 
 I am a **Data Analyst and Analytics Engineer** with a **Master’s in Information Systems from the University of Maryland (UMD)**. Passionate about leveraging **data analytics, machine learning, and business intelligence**, I specialize in **data-driven decision-making, predictive modeling, and visualization**.  
 
