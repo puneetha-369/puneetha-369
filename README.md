@@ -8,7 +8,7 @@ I am a **Data Analyst and Analytics Engineer** with a **Master’s in Informatio
 ---
 
 ## ⚡ Interests  
-- 📊 **Data Analytics & Visualization** – Love making data tell a story using **Tableau, Power BI, and Python**  
+- 📊 **Data Analytics & Visualization** – Love making data tell a story using **SQL, Tableau, Power BI, and Python**  
 - 🤖 **Machine Learning & Predictive Analytics** – Building models that drive strategic decisions  
 - ☁️ **Cloud & Big Data** – Exploring **AWS, Hadoop, and data engineering tools**  
 - 🎨 **Data Storytelling** – Creating impactful dashboards and presentations to communicate insights  
