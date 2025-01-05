@@ -36,5 +36,5 @@ If you're hiring or know of any exciting opportunities, let’s connect! 📩
 ---
 
 ## 🎉 Fun Fact  
-I love uncovering hidden patterns in data and optimizing business processes using data-driven insights!  
+I enjoy **solving real-world problems with data**, whether it’s optimizing business processes, predicting trends, or uncovering hidden insights. Outside of work, you’ll probably find me **exploring the latest tech trends, analyzing sports stats, or diving into a good book on AI & analytics**! 
 Let’s connect and make sense of data together! 😃  
