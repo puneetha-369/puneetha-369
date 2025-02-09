@@ -16,7 +16,7 @@ I am a **Data Analyst and Analytics Engineer** with a **Master’s in Informatio
 - 🎨 **Data Storytelling** – Creating impactful dashboards and presentations to communicate insights  
 
 ## 🌱 Currently Learning  
-- 🛠️ **Advanced Analytics Engineering** using **dbt, Databricks, and Snowflake**  
+- 🛠️ **Advanced Analytics Engineering** using **dbt, Databricks**  
 - 🚀 **Scaling ML Models** and deploying on cloud platforms  
 
 ## 💼 Actively Looking for Roles In:  
