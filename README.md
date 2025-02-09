@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Puneetha 
 ## 🚀 Data Analyst | Analytics Engineer | Data Scientist  
 
-I am a **Data Analyst and Analytics Engineer** with a **Master’s in Information Systems from the University of Maryland (UMD)**. Passionate about leveraging **data analytics, machine learning, and business intelligence**, I specialize in **data-driven decision-making, predictive modeling, and visualization**.  
+Passionate about leveraging **data analytics, machine learning, and business intelligence**, I specialize in **data-driven decision-making, predictive modeling, and visualization**.  
 
 🎯 **Currently Actively Seeking Opportunities** in **Data Analytics, Analytics Engineering, and Data Science** roles. Open to collaborating on exciting projects and opportunities in **data-driven decision-making and AI-driven analytics**.  
 
