@@ -10,20 +10,20 @@ Passionate about leveraging **data analytics, machine learning, and business int
 ---
 
 ## ⚡ Interests  
-- 📊 **Data Analytics & Visualization** – Love making data tell a story using **SQL, Tableau, Power BI, and Python**  
-- 🤖 **Machine Learning & Predictive Analytics** – Building models that drive strategic decisions  
-- ☁️ **Cloud & Big Data** – Exploring **AWS, Hadoop, and data engineering tools**  
-- 🎨 **Data Storytelling** – Creating impactful dashboards and presentations to communicate insights  
+- **Data Analytics & Visualization** – Love making data tell a story using **SQL, Tableau, Power BI, and Python**  
+- **Machine Learning & Predictive Analytics** – Building models that drive strategic decisions  
+- **Cloud & Big Data** – Exploring **AWS, Hadoop, and data engineering tools**  
+- **Data Storytelling** – Creating impactful dashboards and presentations to communicate insights  
 
 ## 🌱 Currently Learning  
-- 🛠️ **Advanced Analytics Engineering** using **dbt, Databricks**  
-- 🚀 **Scaling ML Models** and deploying on cloud platforms  
+- **Advanced Analytics Engineering** using **dbt, Databricks**  
+- **Scaling ML Models** and deploying on cloud platforms  
 
 ## 💼 Actively Looking for Roles In:  
-- 🔍 **Data Analytics**  
-- 🏗 **Analytics Engineering**  
-- 🤖 **Data Science & Machine Learning**  
-- 📈 **Business Intelligence & Reporting**  
+- **Data Analytics**  
+- **Analytics Engineering**  
+- **Data Science & Machine Learning**  
+- **Business Intelligence & Reporting**  
 
 If you're hiring or know of any exciting opportunities, let’s connect! 📩  
 
