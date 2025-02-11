@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Puneetha 
-## 🚀 Data Analyst | Analytics Engineer | Data Scientist  
+## Data Analyst | Analytics Engineer | Data Scientist  
 
 Passionate about leveraging **data analytics, machine learning, and business intelligence**, I specialize in **data-driven decision-making, predictive modeling, and visualization**.  
 
-🎯 **Currently Actively Seeking Opportunities** in **Data Analytics, Analytics Engineering, and Data Science** roles. Open to collaborating on exciting projects and opportunities in **data-driven decision-making and AI-driven analytics**.  
+**Currently Actively Seeking Opportunities** in **Data Analytics, Analytics Engineering, and Data Science** roles. Open to collaborating on exciting projects and opportunities in **data-driven decision-making and AI-driven analytics**.  
 
-📊 **3+ years of experience in data analytics and business intelligence**, working with SQL, Python, Tableau, Power BI, and cloud platforms to drive impactful insights and strategic decision-making.  
+**3+ years of experience in data analytics and business intelligence**, working with SQL, Python, Tableau, Power BI, and cloud platforms to drive impactful insights and strategic decision-making.  
 
 ---
 
